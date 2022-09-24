@@ -1,0 +1,11 @@
+- Paste file sesuai minggu ke berapa
+
+
+-ketik
+git add .
+
+git commit -m "pesan commit"
+
+git push origin main
+
+- Buatkan pull requests
