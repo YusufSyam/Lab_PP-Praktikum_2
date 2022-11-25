@@ -1,0 +1,16 @@
+a = int(input("Input nilai matriks pertama index 1,1:"))
+b = int(input("Input nilai matriks pertama index 1,2:"))
+c = int(input("Input nilai matriks pertama index 2,1:"))
+d = int(input("Input nilai matriks pertama index 2,2:"))
+e = int(input("Input nilai matriks kedua index 1,1:"))
+f = int(input("Input nilai matriks kedua index 1,2:"))
+g = int(input("Input nilai matriks kedua index 2,1:"))
+h = int(input("Input nilai matriks kedua index 2,2:"))
+
+w = (a * e) + (b * g)
+x = (c * e) + (d * g)
+y = (a * f) + (b * h)
+z = (c * f) + (d * h)
+
+print(f"| {a}, {b} | ✕ | {e}, {f} | = | {w}, {y} |")
+print(f"| {c}, {d} |   | {g}, {h} |   | {x}, {z} |")
