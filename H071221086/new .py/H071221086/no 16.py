@@ -1,0 +1,2 @@
+a = "Halo semuanya! Saya ingin memperkenalkan diri saya! Nama lengkap saya Nabila Kharisma Syaputri, kalia bisa panggil saya Nabila. Saya salah satu mahasiswa UNHAS dari Fakultas MIPA prodi Sistem Informasi. Saya senang bermain game online dan menikmati melakukan koding dan problem solving. nice to meet you guys, thankyou! "
+print(a)
